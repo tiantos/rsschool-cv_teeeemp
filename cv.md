@@ -28,7 +28,7 @@ ___
 ###_education_
 ___
 * __it__
-    * 2022 - in progress | Rolling Scopes School | Javascript/Front-End Program #stage0
+    * 2022-2023 - in progress | Rolling Scopes School | Javascript/Front-End Program #stage0
     * 2022 | Encode | Create a website
     * 2022 | Hexlet | HTML for beginner
     * 2022 | Hexlet | CSS for beginner
