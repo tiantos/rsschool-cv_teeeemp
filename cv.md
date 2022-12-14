@@ -34,7 +34,6 @@ ___
     * 2022 | Hexlet | CSS for beginner
     * 2022 | Hexlet | JavaScript for beginner
 * _arch_   
-    * _2013-2018 | SPbGASU | architect | bachelor's degree_
     * _2018-2020 | SPbGASU | architect | master's degree_
 ###_experience_
 ___
