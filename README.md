@@ -1,1 +1,1 @@
-https://tiantos.github.io/rsschool-cv/cv
+https://tiantos.github.io/rsschool-cv/
